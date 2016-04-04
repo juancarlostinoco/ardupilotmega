@@ -1,0 +1,1 @@
+An Atmega1280-based autopilot. Fully Arduino compatible
